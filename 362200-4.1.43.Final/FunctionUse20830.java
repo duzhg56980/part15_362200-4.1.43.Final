@@ -1,0 +1,6 @@
+import io.netty.util.concurrent.NonStickyEventExecutorGroup.NonStickyOrderedEventExecutor;
+public class FunctionUse20830 {
+public void funcUse() {
+NonStickyOrderedEventExecutor nonstickyorderedeventexecutor = new NonStickyOrderedEventExecutor();
+}
+}
